@@ -189,6 +189,33 @@
     .books-cos-img{
         margin-bottom: 10px !important;
     }
+
+    .img1, .img2, .img3{
+        height: 100vh !important;
+        object-fit: fill;
+    }
+
+    .carousel-texts{
+        top: 10% !important;
+        width: auto !important;
+    }
+
+    .carousel-main{
+        height: 65vh !important;
+    }
+
+    .carousel-texts h2{
+        font-size: 46px !important;
+    }
+    
+    .carousel-texts p{
+        font-size: 18px !important;
+        padding: 20px 0px 40px !important;
+    }
+
+    .carousel-control-prev, .carousel-control-next{
+        display: none;
+    }
 }
 
 @media screen and (min-width:768px) and (max-width:968px) {
@@ -488,7 +515,7 @@
         margin-bottom: 20px !important;
     }
     .fp-main {
-        width: 80% !important;
+        width: 90% !important;
         margin: auto;
     }
     .feature-products{
@@ -501,7 +528,7 @@
     
     .books-cos-img:hover .rotate{
         bottom: 30% !important;
-        left: 40% !important;
+        left: 37% !important;
     }
 
     .rotate1{
@@ -511,8 +538,8 @@
     
    
     .books-cos-img:hover .rotate1{
-        top: 40% !important;
-        left: 47% !important;
+        top: 30% !important;
+        left: 45% !important;
     }
 
     .book-shlef-2{
@@ -535,6 +562,11 @@
     .sm-pb{
         padding-bottom: 10px !important;
     }
+
+    .feature-card{
+        margin: auto;
+        width: 100% !important;
+    }
 }
 
 @media screen and (min-width:768px) and (max-width:986px) {
@@ -544,7 +576,7 @@
         margin-bottom: 20px !important;
     }
     .fp-main {
-        width: 100% !important;
+        width: auto !important;
         margin: auto;
     }
 
@@ -918,6 +950,7 @@
     .blog-main-row2{
         margin-top: 0 !important;
     }
+
 }
 
 @media screen and (min-width:768px) and (max-width:986px) {
