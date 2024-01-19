@@ -1,3 +1,3 @@
 # new project (website of book store)
 
-[live_demo](https://loquacious-selkie-334370.netlify.app/)
+[live_demo](candid-moxie-8e3fdb.netlify.app)
